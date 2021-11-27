@@ -1,5 +1,5 @@
 <?php	
-	define('TITLE', 'Sign In');
+	define('TITLE', 'Contact Us');
 	require('header.php');
 
 			echo "<div class='main'>";
